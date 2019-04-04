@@ -1,0 +1,388 @@
+m255
+K3
+z0
+13
+cModel Technology
+dD:\school\CPE300\Final_Project\test
+vaccumulator
+Z0 !s110 1461642418
+!i10b 1
+!s100 T<FhQVGL7BA<FjX`^Wead2
+ITjEVLPPXWIL7G5BRohOY[0
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dD:/school/CPE300/Final_Project/test
+w1460583186
+8D:/school/CPE300/Final_Project/accumulator.v
+FD:/school/CPE300/Final_Project/accumulator.v
+L0 1
+Z3 OV;L;10.4b;61
+r1
+!s85 0
+31
+Z4 !s108 1461642416.000000
+!s107 D:/school/CPE300/Final_Project/accumulator.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/school/CPE300/Final_Project/accumulator.v|
+!i113 1
+Z5 o-work work
+valu
+R0
+!i10b 1
+!s100 XmjaB>Z`V^==1NM_JPeV;1
+IhO:VfeKj0`cOmmG;mbiAC2
+R1
+R2
+w1460238504
+8D:/school/CPE300/Final_Project/alu.v
+FD:/school/CPE300/Final_Project/alu.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/school/CPE300/Final_Project/alu.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/school/CPE300/Final_Project/alu.v|
+!i113 1
+R5
+vcontroler
+R0
+!i10b 1
+!s100 ]mn]1B78cMoL;F?ENl<4<0
+I2oM6e1[cI2]7ke^fETf120
+R1
+R2
+w1461620824
+8D:/school/CPE300/Final_Project/controller.v
+FD:/school/CPE300/Final_Project/controller.v
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1461642417.000000
+!s107 D:/school/CPE300/Final_Project/controller.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/school/CPE300/Final_Project/controller.v|
+!i113 1
+R5
+vcount2b
+Z6 !s110 1461642420
+!i10b 1
+!s100 6A_J^9D@S0j^7I2ZZP17^1
+In2E<Id4oUlogQOzSmh?MG0
+R1
+R2
+w1461034072
+8D:/school/CPE300/Final_Project/count2b.v
+FD:/school/CPE300/Final_Project/count2b.v
+L0 1
+R3
+r1
+!s85 0
+31
+Z7 !s108 1461642418.000000
+!s107 D:/school/CPE300/Final_Project/count2b.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/school/CPE300/Final_Project/count2b.v|
+!i113 1
+R5
+vdatapath
+R6
+!i10b 1
+!s100 YXgeVj^h:=G[AlWVkA?6n1
+IBTZ]0M?Tzn8MLUF@D0c?21
+R1
+R2
+w1461187540
+8D:/school/CPE300/Final_Project/datapath.v
+FD:/school/CPE300/Final_Project/datapath.v
+L0 1
+R3
+r1
+!s85 0
+31
+R7
+!s107 D:/school/CPE300/Final_Project/datapath.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/school/CPE300/Final_Project/datapath.v|
+!i113 1
+R5
+vincer
+R6
+!i10b 1
+!s100 R@jc^1T:RP0oZ:DUG6Y1l2
+Ijn_aG1j>8ielW@QnbF<[X3
+R1
+R2
+w1460249452
+8D:/school/CPE300/Final_Project/incer.v
+FD:/school/CPE300/Final_Project/incer.v
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1461642419.000000
+!s107 D:/school/CPE300/Final_Project/incer.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/school/CPE300/Final_Project/incer.v|
+!i113 1
+R5
+vIRreg
+Z8 !s110 1461642422
+!i10b 1
+!s100 ]T`C;U^4C1K[TH3XXoB_Q0
+I@zL`oH:3g8f_6zTN`YAHJ2
+R1
+R2
+w1461030404
+8D:/school/CPE300/Final_Project/IRreg.v
+FD:/school/CPE300/Final_Project/IRreg.v
+L0 1
+R3
+r1
+!s85 0
+31
+Z9 !s108 1461642420.000000
+!s107 D:/school/CPE300/Final_Project/IRreg.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/school/CPE300/Final_Project/IRreg.v|
+!i113 1
+R5
+n@i@rreg
+vmux4
+R8
+!i10b 1
+!s100 lmfZnEV[A1FX:NL<5IAWm0
+Ia>L9;BTCE23]n0i7TmS];1
+R1
+R2
+w1460249310
+8D:/school/CPE300/Final_Project/mux4.v
+FD:/school/CPE300/Final_Project/mux4.v
+L0 1
+R3
+r1
+!s85 0
+31
+R9
+!s107 D:/school/CPE300/Final_Project/mux4.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/school/CPE300/Final_Project/mux4.v|
+!i113 1
+R5
+vmux5
+Z10 !s110 1461642424
+!i10b 1
+!s100 ]LfVPTCg?P@n?J6S0ZQIZ3
+IR:NW8PfAI;T]caO^^e<zN0
+R1
+R2
+w1461033096
+8D:/school/CPE300/Final_Project/mux5.v
+FD:/school/CPE300/Final_Project/mux5.v
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1461642421.000000
+!s107 D:/school/CPE300/Final_Project/mux5.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/school/CPE300/Final_Project/mux5.v|
+!i113 1
+R5
+voutreg
+R10
+!i10b 1
+!s100 6Qic4Z7I2Nh5gi>bABH:[2
+I:>OSlWzN?Lz@0S:;DV?9@0
+R1
+R2
+w1461032310
+8D:/school/CPE300/Final_Project/outreg.v
+FD:/school/CPE300/Final_Project/outreg.v
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1461642422.000000
+!s107 D:/school/CPE300/Final_Project/outreg.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/school/CPE300/Final_Project/outreg.v|
+!i113 1
+R5
+vpcmux2
+R10
+!i10b 1
+!s100 DR_P>hZ9[09I[kl7IE2M`3
+IG9JAWk5gWA=i>;ILHDzb_0
+R1
+R2
+w1460586776
+8D:/school/CPE300/Final_Project/pcmux2.v
+FD:/school/CPE300/Final_Project/pcmux2.v
+L0 1
+R3
+r1
+!s85 0
+31
+Z11 !s108 1461642423.000000
+!s107 D:/school/CPE300/Final_Project/pcmux2.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/school/CPE300/Final_Project/pcmux2.v|
+!i113 1
+R5
+vpcreg
+Z12 !s110 1461642426
+!i10b 1
+!s100 PEg9D]UW[IhFmH4@<4A1k2
+Il=D8Q08j;C^aW;O5YFnoO3
+R1
+R2
+w1461029630
+8D:/school/CPE300/Final_Project/pcreg.v
+FD:/school/CPE300/Final_Project/pcreg.v
+L0 1
+R3
+r1
+!s85 0
+31
+R11
+!s107 D:/school/CPE300/Final_Project/pcreg.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/school/CPE300/Final_Project/pcreg.v|
+!i113 1
+R5
+vRAM
+R12
+!i10b 1
+!s100 :182Jl^I5OY=[mMiV]]`a3
+IH<:>94:OW?;iBETloGkXi2
+R1
+R2
+w1461031540
+8D:/school/CPE300/Final_Project/RAM.v
+FD:/school/CPE300/Final_Project/RAM.v
+L0 1
+R3
+r1
+!s85 0
+31
+Z13 !s108 1461642424.000000
+!s107 D:/school/CPE300/Final_Project/RAM.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/school/CPE300/Final_Project/RAM.v|
+!i113 1
+R5
+n@r@a@m
+vregifile
+R12
+!i10b 1
+!s100 ^Ne05h0j<[D7VdkK3Z5oz0
+I09LFCj`z[IfR2@QNb2ec?0
+R1
+R2
+w1460586756
+8D:/school/CPE300/Final_Project/regifile.v
+FD:/school/CPE300/Final_Project/regifile.v
+L0 1
+R3
+r1
+!s85 0
+31
+R13
+!s107 D:/school/CPE300/Final_Project/regifile.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/school/CPE300/Final_Project/regifile.v|
+!i113 1
+R5
+vreln
+R12
+!i10b 1
+!s100 o7Q;7bO^kJ=]Z1f3n^G:A1
+Idi?eRKk@fQgOm4[TDgz542
+R1
+R2
+Z14 w1460496420
+8D:/school/CPE300/Final_Project/reln.v
+FD:/school/CPE300/Final_Project/reln.v
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1461642425.000000
+!s107 D:/school/CPE300/Final_Project/reln.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/school/CPE300/Final_Project/reln.v|
+!i113 1
+R5
+vrelp
+Z15 !s110 1461642428
+!i10b 1
+!s100 5B:?lQn3P1@l1QAkf<9Bl1
+IZ[D;o9;X:GJ<;Oo=G7Fn30
+R1
+R2
+R14
+8D:/school/CPE300/Final_Project/relp.v
+FD:/school/CPE300/Final_Project/relp.v
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1461642426.000000
+!s107 D:/school/CPE300/Final_Project/relp.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/school/CPE300/Final_Project/relp.v|
+!i113 1
+R5
+vshifter
+R15
+!i10b 1
+!s100 ;bFO^]hco=;Jm;jGOi4T_3
+Inf:gWELX=6G`_AMjEiT=A1
+R1
+R2
+w1460239646
+8D:/school/CPE300/Final_Project/shifter.v
+FD:/school/CPE300/Final_Project/shifter.v
+L0 1
+R3
+r1
+!s85 0
+31
+Z16 !s108 1461642427.000000
+!s107 D:/school/CPE300/Final_Project/shifter.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/school/CPE300/Final_Project/shifter.v|
+!i113 1
+R5
+vtestbench
+Z17 !s110 1461642430
+!i10b 1
+!s100 _I6h;f<o5Kodk_?>DgYJI3
+IR>YI:e6YBJnn<<DehN^VH1
+R1
+R2
+w1461205356
+8D:/school/CPE300/Final_Project/testbench.v
+FD:/school/CPE300/Final_Project/testbench.v
+L0 1
+R3
+r1
+!s85 0
+31
+R16
+!s107 D:/school/CPE300/Final_Project/testbench.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/school/CPE300/Final_Project/testbench.v|
+!i113 1
+R5
+vtop
+R17
+!i10b 1
+!s100 0aLgA@@S53C9:cf8`IHSi0
+I]dW4DzgTg[kk1iT0TcRL=2
+R1
+R2
+w1461621080
+8D:/school/CPE300/Final_Project/top.v
+FD:/school/CPE300/Final_Project/top.v
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1461642428.000000
+!s107 D:/school/CPE300/Final_Project/top.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/school/CPE300/Final_Project/top.v|
+!i113 1
+R5

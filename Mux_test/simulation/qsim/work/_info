@@ -1,0 +1,233 @@
+m255
+K3
+13
+cModel Technology
+Z0 dD:\School\CPE300\Final_Project\Mux_test\simulation\qsim
+vdatapath
+Z1 I?0I3:_L5VOBMK_^<njj6N2
+Z2 VUL99d4nRI^3MnQMbHV[Xg3
+Z3 dD:\school\CPE300\Final_Project\Mux_test\simulation\qsim
+Z4 w1461013912
+Z5 8mux4.vo
+Z6 Fmux4.vo
+L0 31
+Z7 OV;L;10.1d;51
+r1
+31
+Z8 !s90 -work|work|mux4.vo|
+Z9 o-work work -O0
+Z10 !s100 zK_`J8ANTGVJYfU@ZAR6;2
+Z11 !s108 1461013913.788000
+Z12 !s107 mux4.vo|
+!i10b 1
+!s85 0
+!s101 -O0
+vdatapath_vlg_check_tst
+Z13 ILgP<Th0=56^BSA8AEz0fl0
+Z14 VaiMJ:KhcnPTfSLb9S3NeZ0
+R3
+Z15 w1461013906
+Z16 8Waveform.vwf.vt
+Z17 FWaveform.vwf.vt
+L0 87
+R7
+r1
+31
+Z18 !s108 1461013923.866000
+Z19 !s107 Waveform.vwf.vt|
+Z20 !s90 -work|work|Waveform.vwf.vt|
+R9
+Z21 !s100 @h9@GAL]]PCJhacOb3HPn1
+!i10b 1
+!s85 0
+!s101 -O0
+vdatapath_vlg_sample_tst
+Z22 IUz1MfZi3o]A4Rca[dKe?T2
+Z23 V]i01O5gdFI=7Qe:OD>DNB1
+R3
+R15
+R16
+R17
+L0 29
+R7
+r1
+31
+R18
+R19
+R20
+R9
+Z24 !s100 P7C1:[mmbbOVcnX6G3]zm2
+!i10b 1
+!s85 0
+!s101 -O0
+vdatapath_vlg_vec_tst
+Z25 I:bd2<n[jIDV;JZ4h<Ki_A3
+Z26 V^@Kb0LjGY<clOm@lcHMDA1
+R3
+R15
+R16
+R17
+Z27 L0 513
+R7
+r1
+31
+R18
+R19
+R20
+R9
+Z28 !s100 i2OZWDQS4ZiFUeGZVCA>:0
+!i10b 1
+!s85 0
+!s101 -O0
+voutreg
+Z29 ImC8meZTaV?MQRO;2P;EMU0
+Z30 VlhoP0J>jESNIBhSJiRf4B2
+Z31 dD:\School\CPE300\Final_Project\Mux_test\simulation\qsim
+Z32 w1460500218
+R5
+R6
+L0 31
+R7
+r1
+31
+R8
+R9
+Z33 !s100 LNSR98N`FZ6S::;dNC2892
+Z34 !s108 1460500219.669000
+R12
+!i10b 1
+!s85 0
+!s101 -O0
+voutreg_vlg_check_tst
+Z35 !s100 ?Wh4nLgizJ9RN75DUfAkT0
+Z36 InPng:DOfSLFk8T^QLc7Sc2
+Z37 VbebXWW[OMEaoXYH;Q`aV[1
+R31
+Z38 w1460500214
+R16
+R17
+L0 63
+R7
+r1
+31
+Z39 !s108 1460500221.791000
+R19
+R20
+R9
+!i10b 1
+!s85 0
+!s101 -O0
+voutreg_vlg_sample_tst
+Z40 !s100 L]>R994jPnJja]nI2W4jc3
+Z41 IL1Od25[Dk[z6m>2355>I@0
+Z42 VC1^Ye86JT7bdbUi:[@;1Y0
+R31
+R38
+R16
+R17
+L0 29
+R7
+r1
+31
+R39
+R19
+R20
+R9
+!i10b 1
+!s85 0
+!s101 -O0
+voutreg_vlg_vec_tst
+Z43 !s100 gLCRg?L0WUEzf68bCSzgE3
+Z44 I@4FMMWVk6H4kNzT3BOR`V0
+Z45 VK`DdU0W;OG`;lIjbYF2zL0
+R31
+R38
+R16
+R17
+Z46 L0 283
+R7
+r1
+31
+R39
+R19
+R20
+R9
+!i10b 1
+!s85 0
+!s101 -O0
+vtop
+Z47 !s100 [4?XAmb;QRlHoelz<:m>61
+Z48 ITVTP81MHlES`P^lI[GleK0
+Z49 VJDf628QHA3Mi_<Ia^Ihn81
+R3
+Z50 w1461019038
+R5
+R6
+L0 31
+R7
+r1
+31
+R8
+R9
+!i10b 1
+!s85 0
+Z51 !s108 1461019040.155000
+R12
+!s101 -O0
+vtop_vlg_check_tst
+!i10b 1
+Z52 !s100 Ufhog^3365No4bZTf<i;<0
+Z53 I_lG>en0FE46`]@`>18kV`0
+Z54 VKMB^>IhMkWB?G3:OAAf=[1
+R3
+Z55 w1461019036
+R16
+R17
+L0 59
+R7
+r1
+!s85 0
+31
+Z56 !s108 1461019041.466000
+Z57 !s107 Waveform.vwf.vt|
+R20
+!s101 -O0
+R9
+vtop_vlg_sample_tst
+!i10b 1
+Z58 !s100 eVRA2GMBKd6<5[T^_fSBK3
+Z59 In6hoAU64[jUmnndhYn_K13
+Z60 VheENBi19naPJ2>XJI0AWd0
+R3
+R55
+R16
+R17
+L0 29
+R7
+r1
+!s85 0
+31
+R56
+R57
+R20
+!s101 -O0
+R9
+vtop_vlg_vec_tst
+!i10b 1
+!s100 f8eX8`9F]8M[WGLFXG<4;2
+I?KCG]i4lifK8DSjoDif4W0
+Z61 Vda?jdcYLcj7iMbie@gX@73
+R3
+R55
+R16
+R17
+Z62 L0 279
+R7
+r1
+!s85 0
+31
+R56
+R57
+R20
+!s101 -O0
+R9

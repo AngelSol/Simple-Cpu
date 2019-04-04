@@ -1,0 +1,51 @@
+module controler (
+input clk,
+input [7:0] IR,
+input Aeq0,apos,
+input [7:0]dataout,
+output IRload,
+output [1:0] JMPmux,
+output PCload,MemInst,MRload,memWr,
+output [2:0] Asel,
+output Aload,reset,RFwr,
+output [2:0]ALUsel,
+output [1:0] Shftsel,
+output outen
+
+);
+reg [18:0] controls;
+assign {IRload,JMPmux,PCload,MemInst,MRload,memWr,Asel,Aload,reset,RFwr,ALUsel,Shftsel,outen} = controls;
+wire resetcount;
+wire [1:0] cycle;
+
+initial 
+	assign resetcount =0;
+	
+count2b counter(clk,resetcount,cycle);
+
+always @ (*)
+	begin
+		case (cycle)
+			2'b00 :	controls <= 19'b1001000xxx000xxxxx0;
+
+						
+						
+/*					assign IRload <= 	1'b		1;
+					assign JMPmux <=	2'b		00;
+					assign PCload <= 	1'b		1;
+					assign MemInst <= 	1'b		0;
+					assign MRload <= 	1'b		0;
+					assign memWr <= 	1'b		0;
+					assign Asel <= 		3'b		xxx;
+					assign Aload <= 	1'b		0;
+					assign reset <= 	1'b		0;
+					assign RFwr <= 		1'b		0;
+					assign ALUsel <= 	3'b		xxx;
+					assign Shftsel <= 	2'b		xx;
+					assign outen <= 	1'b		0;
+*/
+		default:  controls <= 19'b0000000000000000000;
+		endcase
+	end
+		
+endmodule

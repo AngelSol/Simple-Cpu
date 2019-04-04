@@ -1,0 +1,267 @@
+D:/school/CPE300/Final_Project/regifile.v {1 {vlog -work work -stats=none D:/school/CPE300/Final_Project/regifile.v
+Model Technology ModelSim ALTERA vlog 10.4b Compiler 2015.05 May 27 2015
+-- Compiling module regifile
+
+Top level modules:
+	regifile
+
+} {} {}} C:/Users/HeavyShigure/Desktop/Final_Project/controller.v {1 {vlog -work work -stats=none C:/Users/HeavyShigure/Desktop/Final_Project/controller.v
+Model Technology ModelSim ALTERA vlog 10.4b Compiler 2015.05 May 27 2015
+-- Compiling module controler
+
+Top level modules:
+	controler
+
+} {} {}} D:/school/CPE300/Final_Project/testbench.v {1 {vlog -work work -stats=none D:/school/CPE300/Final_Project/testbench.v
+Model Technology ModelSim ALTERA vlog 10.4b Compiler 2015.05 May 27 2015
+-- Compiling module testbench
+
+Top level modules:
+	testbench
+
+} {} {}} D:/school/CPE300/Final_Project/RAM.v {1 {vlog -work work -stats=none D:/school/CPE300/Final_Project/RAM.v
+Model Technology ModelSim ALTERA vlog 10.4b Compiler 2015.05 May 27 2015
+-- Compiling module RAM
+
+Top level modules:
+	RAM
+
+} {} {}} D:/school/CPE300/Final_Project/accumulator.v {1 {vlog -work work -stats=none D:/school/CPE300/Final_Project/accumulator.v
+Model Technology ModelSim ALTERA vlog 10.4b Compiler 2015.05 May 27 2015
+-- Compiling module accumulator
+
+Top level modules:
+	accumulator
+
+} {} {}} C:/Users/HeavyShigure/Desktop/Final_Project/count2b.v {1 {vlog -work work -stats=none C:/Users/HeavyShigure/Desktop/Final_Project/count2b.v
+Model Technology ModelSim ALTERA vlog 10.4b Compiler 2015.05 May 27 2015
+-- Compiling module count2b
+
+Top level modules:
+	count2b
+
+} {} {}} D:/school/CPE300/Final_Project/reln.v {1 {vlog -work work -stats=none D:/school/CPE300/Final_Project/reln.v
+Model Technology ModelSim ALTERA vlog 10.4b Compiler 2015.05 May 27 2015
+-- Compiling module reln
+
+Top level modules:
+	reln
+
+} {} {}} D:/school/CPE300/Final_Project/incer.v {1 {vlog -work work -stats=none D:/school/CPE300/Final_Project/incer.v
+Model Technology ModelSim ALTERA vlog 10.4b Compiler 2015.05 May 27 2015
+-- Compiling module incer
+
+Top level modules:
+	incer
+
+} {} {}} C:/Users/HeavyShigure/Desktop/Final_Project/outreg.v {1 {vlog -work work -stats=none C:/Users/HeavyShigure/Desktop/Final_Project/outreg.v
+Model Technology ModelSim ALTERA vlog 10.4b Compiler 2015.05 May 27 2015
+-- Compiling module outreg
+
+Top level modules:
+	outreg
+
+} {} {}} C:/Users/HeavyShigure/Desktop/Final_Project/mux4.v {1 {vlog -work work -stats=none C:/Users/HeavyShigure/Desktop/Final_Project/mux4.v
+Model Technology ModelSim ALTERA vlog 10.4b Compiler 2015.05 May 27 2015
+-- Compiling module mux4
+
+Top level modules:
+	mux4
+
+} {} {}} C:/Users/HeavyShigure/Desktop/Final_Project/mux5.v {1 {vlog -work work -stats=none C:/Users/HeavyShigure/Desktop/Final_Project/mux5.v
+Model Technology ModelSim ALTERA vlog 10.4b Compiler 2015.05 May 27 2015
+-- Compiling module mux5
+
+Top level modules:
+	mux5
+
+} {} {}} C:/Users/HeavyShigure/Desktop/Final_Project/datapath.v {1 {vlog -work work -stats=none C:/Users/HeavyShigure/Desktop/Final_Project/datapath.v
+Model Technology ModelSim ALTERA vlog 10.4b Compiler 2015.05 May 27 2015
+-- Compiling module datapath
+
+Top level modules:
+	datapath
+
+} {} {}} C:/Users/HeavyShigure/Desktop/Final_Project/pcmux2.v {1 {vlog -work work -stats=none C:/Users/HeavyShigure/Desktop/Final_Project/pcmux2.v
+Model Technology ModelSim ALTERA vlog 10.4b Compiler 2015.05 May 27 2015
+-- Compiling module pcmux2
+
+Top level modules:
+	pcmux2
+
+} {} {}} D:/school/CPE300/Final_Project/top.v {1 {vlog -work work -stats=none D:/school/CPE300/Final_Project/top.v
+Model Technology ModelSim ALTERA vlog 10.4b Compiler 2015.05 May 27 2015
+-- Compiling module top
+
+Top level modules:
+	top
+
+} {} {}} C:/Users/HeavyShigure/Desktop/Final_Project/accumulator.v {1 {vlog -work work -stats=none C:/Users/HeavyShigure/Desktop/Final_Project/accumulator.v
+Model Technology ModelSim ALTERA vlog 10.4b Compiler 2015.05 May 27 2015
+-- Compiling module accumulator
+
+Top level modules:
+	accumulator
+
+} {} {}} C:/Users/HeavyShigure/Desktop/Final_Project/RAM.v {1 {vlog -work work -stats=none C:/Users/HeavyShigure/Desktop/Final_Project/RAM.v
+Model Technology ModelSim ALTERA vlog 10.4b Compiler 2015.05 May 27 2015
+-- Compiling module RAM
+
+Top level modules:
+	RAM
+
+} {} {}} D:/school/CPE300/Final_Project/relp.v {1 {vlog -work work -stats=none D:/school/CPE300/Final_Project/relp.v
+Model Technology ModelSim ALTERA vlog 10.4b Compiler 2015.05 May 27 2015
+-- Compiling module relp
+
+Top level modules:
+	relp
+
+} {} {}} C:/Users/HeavyShigure/Desktop/Final_Project/testbench.v {1 {vlog -work work -stats=none {C:\Users\HeavyShigure\Desktop\Final_Project\testbench.v}
+Model Technology ModelSim ALTERA vlog 10.4b Compiler 2015.05 May 27 2015
+-- Compiling module testbench
+
+Top level modules:
+	testbench
+
+} {} {}} C:/Users/HeavyShigure/Desktop/Final_Project/incer.v {1 {vlog -work work -stats=none C:/Users/HeavyShigure/Desktop/Final_Project/incer.v
+Model Technology ModelSim ALTERA vlog 10.4b Compiler 2015.05 May 27 2015
+-- Compiling module incer
+
+Top level modules:
+	incer
+
+} {} {}} D:/school/CPE300/Final_Project/controller.v {1 {vlog -work work -stats=none D:/school/CPE300/Final_Project/controller.v
+Model Technology ModelSim ALTERA vlog 10.4b Compiler 2015.05 May 27 2015
+-- Compiling module controler
+
+Top level modules:
+	controler
+
+} {} {}} D:/school/CPE300/Final_Project/shifter.v {1 {vlog -work work -stats=none D:/school/CPE300/Final_Project/shifter.v
+Model Technology ModelSim ALTERA vlog 10.4b Compiler 2015.05 May 27 2015
+-- Compiling module shifter
+
+Top level modules:
+	shifter
+
+} {} {}} C:/Users/HeavyShigure/Desktop/Final_Project/top.v {1 {vlog -work work -stats=none C:/Users/HeavyShigure/Desktop/Final_Project/top.v
+Model Technology ModelSim ALTERA vlog 10.4b Compiler 2015.05 May 27 2015
+-- Compiling module top
+
+Top level modules:
+	top
+
+} {} {}} D:/school/CPE300/Final_Project/mux4.v {1 {vlog -work work -stats=none D:/school/CPE300/Final_Project/mux4.v
+Model Technology ModelSim ALTERA vlog 10.4b Compiler 2015.05 May 27 2015
+-- Compiling module mux4
+
+Top level modules:
+	mux4
+
+} {} {}} D:/school/CPE300/Final_Project/outreg.v {1 {vlog -work work -stats=none D:/school/CPE300/Final_Project/outreg.v
+Model Technology ModelSim ALTERA vlog 10.4b Compiler 2015.05 May 27 2015
+-- Compiling module outreg
+
+Top level modules:
+	outreg
+
+} {} {}} D:/school/CPE300/Final_Project/datapath.v {1 {vlog -work work -stats=none D:/school/CPE300/Final_Project/datapath.v
+Model Technology ModelSim ALTERA vlog 10.4b Compiler 2015.05 May 27 2015
+-- Compiling module datapath
+
+Top level modules:
+	datapath
+
+} {} {}} D:/school/CPE300/Final_Project/mux5.v {1 {vlog -work work -stats=none D:/school/CPE300/Final_Project/mux5.v
+Model Technology ModelSim ALTERA vlog 10.4b Compiler 2015.05 May 27 2015
+-- Compiling module mux5
+
+Top level modules:
+	mux5
+
+} {} {}} D:/school/CPE300/Final_Project/pcmux2.v {1 {vlog -work work -stats=none D:/school/CPE300/Final_Project/pcmux2.v
+Model Technology ModelSim ALTERA vlog 10.4b Compiler 2015.05 May 27 2015
+-- Compiling module pcmux2
+
+Top level modules:
+	pcmux2
+
+} {} {}} C:/Users/HeavyShigure/Desktop/Final_Project/shifter.v {1 {vlog -work work -stats=none C:/Users/HeavyShigure/Desktop/Final_Project/shifter.v
+Model Technology ModelSim ALTERA vlog 10.4b Compiler 2015.05 May 27 2015
+-- Compiling module shifter
+
+Top level modules:
+	shifter
+
+} {} {}} D:/school/CPE300/Final_Project/IRreg.v {1 {vlog -work work -stats=none D:/school/CPE300/Final_Project/IRreg.v
+Model Technology ModelSim ALTERA vlog 10.4b Compiler 2015.05 May 27 2015
+-- Compiling module IRreg
+
+Top level modules:
+	IRreg
+
+} {} {}} D:/school/CPE300/Final_Project/pcreg.v {1 {vlog -work work -stats=none D:/school/CPE300/Final_Project/pcreg.v
+Model Technology ModelSim ALTERA vlog 10.4b Compiler 2015.05 May 27 2015
+-- Compiling module pcreg
+
+Top level modules:
+	pcreg
+
+} {} {}} C:/Users/HeavyShigure/Desktop/Final_Project/regifile.v {1 {vlog -work work -stats=none C:/Users/HeavyShigure/Desktop/Final_Project/regifile.v
+Model Technology ModelSim ALTERA vlog 10.4b Compiler 2015.05 May 27 2015
+-- Compiling module regifile
+
+Top level modules:
+	regifile
+
+} {} {}} D:/school/CPE300/Final_Project/alu.v {1 {vlog -work work -stats=none D:/school/CPE300/Final_Project/alu.v
+Model Technology ModelSim ALTERA vlog 10.4b Compiler 2015.05 May 27 2015
+-- Compiling module alu
+
+Top level modules:
+	alu
+
+} {} {}} C:/Users/HeavyShigure/Desktop/Final_Project/IRreg.v {1 {vlog -work work -stats=none C:/Users/HeavyShigure/Desktop/Final_Project/IRreg.v
+Model Technology ModelSim ALTERA vlog 10.4b Compiler 2015.05 May 27 2015
+-- Compiling module IRreg
+
+Top level modules:
+	IRreg
+
+} {} {}} C:/Users/HeavyShigure/Desktop/Final_Project/pcreg.v {1 {vlog -work work -stats=none C:/Users/HeavyShigure/Desktop/Final_Project/pcreg.v
+Model Technology ModelSim ALTERA vlog 10.4b Compiler 2015.05 May 27 2015
+-- Compiling module pcreg
+
+Top level modules:
+	pcreg
+
+} {} {}} C:/Users/HeavyShigure/Desktop/Final_Project/reln.v {1 {vlog -work work -stats=none C:/Users/HeavyShigure/Desktop/Final_Project/reln.v
+Model Technology ModelSim ALTERA vlog 10.4b Compiler 2015.05 May 27 2015
+-- Compiling module reln
+
+Top level modules:
+	reln
+
+} {} {}} C:/Users/HeavyShigure/Desktop/Final_Project/alu.v {1 {vlog -work work -stats=none C:/Users/HeavyShigure/Desktop/Final_Project/alu.v
+Model Technology ModelSim ALTERA vlog 10.4b Compiler 2015.05 May 27 2015
+-- Compiling module alu
+
+Top level modules:
+	alu
+
+} {} {}} D:/school/CPE300/Final_Project/count2b.v {1 {vlog -work work -stats=none D:/school/CPE300/Final_Project/count2b.v
+Model Technology ModelSim ALTERA vlog 10.4b Compiler 2015.05 May 27 2015
+-- Compiling module count2b
+
+Top level modules:
+	count2b
+
+} {} {}} C:/Users/HeavyShigure/Desktop/Final_Project/relp.v {1 {vlog -work work -stats=none C:/Users/HeavyShigure/Desktop/Final_Project/relp.v
+Model Technology ModelSim ALTERA vlog 10.4b Compiler 2015.05 May 27 2015
+-- Compiling module relp
+
+Top level modules:
+	relp
+
+} {} {}}

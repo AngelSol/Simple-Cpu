@@ -1,0 +1,200 @@
+add wave -noupdate /testbench/cpusim//ALUsel
+add wave -noupdate /testbench/cpusim//Aeq0
+add wave -noupdate /testbench/cpusim//Aload
+add wave -noupdate /testbench/cpusim//Asel
+add wave -noupdate /testbench/cpusim//IR
+add wave -noupdate /testbench/cpusim//IRload
+add wave -noupdate /testbench/cpusim//JMPmux
+add wave -noupdate /testbench/cpusim//MRload
+add wave -noupdate /testbench/cpusim//MemInst
+add wave -noupdate /testbench/cpusim//PCload
+add wave -noupdate /testbench/cpusim//RFwr
+add wave -noupdate /testbench/cpusim//Shftsel
+add wave -noupdate /testbench/cpusim//apos
+add wave -noupdate /testbench/cpusim//clk
+add wave -noupdate /testbench/cpusim//dataout
+add wave -noupdate /testbench/cpusim//dataoutf
+add wave -noupdate /testbench/cpusim//inext
+add wave -noupdate /testbench/cpusim//instr
+add wave -noupdate /testbench/cpusim//memWr
+add wave -noupdate /testbench/cpusim//outen
+add wave -noupdate /testbench/cpusim//reset
+add wave -noupdate /testbench/cpusim//datunit/PCout
+add wave -noupdate /testbench/cpusim//conunit/cycle
+add wave -noupdate /testbench/cpusim//conunit/resetcount
+add wave -noupdate /testbench/cpusim//datunit/memout
+add wave -noupdate /testbench/cpusim//datunit/IR
+add wave -noupdate /testbench/cpusim//datunit/MR2ram
+add wave -noupdate /testbench/cpusim//datunit/Accin
+add wave -noupdate /testbench/cpusim//datunit/Accout
+add wave -noupdate /testbench/cpusim//datunit/accmux/a
+add wave -noupdate /testbench/cpusim//datunit/accmux/b
+add wave -noupdate /testbench/cpusim//datunit/accmux/c
+add wave -noupdate /testbench/cpusim//datunit/accmux/d
+add wave -noupdate /testbench/cpusim//datunit/accmux/e
+add wave -noupdate /testbench/cpusim//datunit/accmux/sel
+add wave -noupdate /testbench/cpusim//datunit/accmux/y
+
+add wave -noupdate /testbench/clk
+add wave -noupdate /testbench/reset
+add wave -noupdate /testbench/inext
+add wave -noupdate /testbench/dataoutf
+add wave -noupdate /testbench/ramin
+add wave -noupdate /testbench/IR
+add wave -noupdate /testbench/ramaddress
+add wave -noupdate /testbench/memWr
+add wave -noupdate /testbench/RFwr
+add wave -noupdate /testbench/succuss
+add wave -noupdate /testbench/cpusim/datunit/PCout
+add wave -noupdate /testbench/cpusim/conunit/cycle
+add wave -noupdate /testbench/cpusim/apos
+add wave -noupdate /testbench/cpusim/Aeq0
+force reset 1
+run 50
+force reset 0
+force clk 1
+run 50
+force clk 0
+run 50
+force clk 1
+run 50
+force clk 0
+run 50
+force clk 1
+run 50
+force clk 0
+run 50
+force clk 1
+run 50
+force clk 0
+run 50
+force clk 1
+run 50
+force clk 0
+run 50
+force clk 1
+run 50
+force clk 0
+run 50
+force clk 1
+run 50
+force clk 0
+run 50
+force clk 1
+run 50
+force clk 0
+run 50
+force clk 1
+run 50
+force clk 0
+run 50
+force clk 1
+run 50
+force clk 0
+run 50
+force clk 1
+run 50
+force clk 0
+run 50
+force clk 1
+run 50
+force clk 0
+run 50
+force clk 1
+run 50
+force clk 0
+run 50
+force clk 1
+run 50
+force clk 0
+run 50
+force clk 1
+run 50
+force clk 0
+run 50
+force clk 1
+run 50
+force clk 0
+run 50
+force clk 1
+run 50
+force clk 0
+run 50
+force clk 1
+run 50
+force clk 0
+run 50
+force clk 1
+run 50
+force clk 0
+run 50
+force clk 1
+run 50
+force clk 0
+run 50
+force clk 1
+run 50
+force clk 0
+run 50
+force clk 1
+run 50
+force clk 0
+run 50
+force clk 1
+run 50
+force clk 0
+run 50
+force clk 1
+run 50
+force clk 0
+run 50
+force clk 1
+run 50
+force clk 0
+run 50
+force clk 1
+run 50
+force clk 0
+run 50
+force clk 1
+run 50
+force clk 0
+run 50
+force clk 1
+run 50
+force clk 0
+run 50
+force clk 1
+run 50
+force clk 0
+run 50
+force clk 1
+run 50
+force clk 0
+run 50
+force clk 1
+run 50
+force clk 0
+run 50
+force clk 1
+run 50
+force clk 0
+run 50
+force clk 1
+run 50
+force clk 0
+run 50
+force clk 1
+run 50
+force clk 0
+run 50
+force clk 1
+run 50
+force clk 0
+run 50
+force clk 1
+run 50
+force clk 0
+run 50
+
+

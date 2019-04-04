@@ -1,0 +1,22 @@
+module top(
+input clk,
+input reset,
+input [7:0] inext,
+output [7:0] dataoutf,ramin,IR,
+output [5:0] ramaddress,
+output memWr,RFwr
+);
+wire [7:0] dataout;//IR,
+wire Aeq0,apos,IRload,PCload,MemInst,MRload,Aload,reset1,outen;//,RFwr,memWr
+wire [1:0] JMPmux,Shftsel;
+wire [2:0] Asel,ALUsel;
+
+
+assign dataoutf = dataout;
+
+controler conunit(clk,IR,Aeq0,apos,dataout,IRload,JMPmux,PCload,MemInst,
+			MRload,memWr,Asel,Aload,reset1,RFwr,ALUsel,Shftsel,outen);
+datapath datunit(clk,IRload,JMPmux,PCload,MemInst,MRload,memWr,Asel,Aload,
+			reset,RFwr,ALUsel,Shftsel,outen,inext,IR,Aeq0,apos,dataout,ramin,ramaddress);
+
+endmodule
